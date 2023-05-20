@@ -11,4 +11,4 @@ Results of the model, including accuracy and any other relevant metrics
 
 Instructions for running the project, including any dependencies or libraries needed
 
-Credits and acknowledgements for any third-party software or libraries used
+Credits and acknowledgements for any third-party software or libraries used.
